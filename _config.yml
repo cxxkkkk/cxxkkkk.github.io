@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+deploy:
+ type: git
+ repo:
+   github: http://github.com/cxxkkkk/cxxkkkk.github.io.git
+ branch: master
